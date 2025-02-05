@@ -34,6 +34,8 @@ const personnes = [
     *POST /personnes : Crée une nouvelle personne.
     *PUT /personnes/:id : Met à jour une personne.
     *DELETE /personnes/:id : Supprime une personne.
+
+  
 3/Test avec Postman :
 les captures de test sont valable dans le dossier
 
